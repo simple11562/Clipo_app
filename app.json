@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "clipo-",
-    "slug": "snack-0e8fbc66-8002-429a-456e-9c6d9a9b0e0a",
+    "slug": "clipo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,6 +20,11 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b7d3f4a1-9c2e-4d5a-b8f1-2e3a4d5c6b7a"
       }
     }
   }
