@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "clipo-",
-    "slug": "snack-0e8fbc66-8002-429a-8c70-05206fd2a149",
+    "slug": "snack-0e8fbc66-8002-429a-456e-9c6d9a9b0e0a",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -16,15 +16,11 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.simple.clipo",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      },
-      "edgeToEdgeEnabled": true
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    },
-    "description": "Short video real comments "
+      }
+    }
   }
 }
