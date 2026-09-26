@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "clipo-",
+    "name": "clipo",
     "slug": "clipo",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -24,8 +24,8 @@
     },
     "extra": {
       "eas": {
-      "projectId": "202f2b4c-9542-4f58-8588-219394299d4b"
-  }
+        "projectId": "202f2b4c-9562-4f58-8588-219394299d4b"
       }
     }
   }
+}
