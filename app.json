@@ -21,12 +21,6 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.simple11602.clipoapp"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "f57d06f5-5167-449b-ae8b-3858382aeee6"
-      }
-    }
+      
   }
 }
