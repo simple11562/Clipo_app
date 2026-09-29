@@ -1,31 +1,31 @@
 {
   "expo": {
-    "name": "clipo",
+    "name": "Clipo",
     "slug": "clipo-app",
-    "owner": "clipo-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
-    "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash-icon.png",
+      "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": true
     },
     "android": {
-      "package": "com.simple.clipo",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.simple11602.clipoapp"
     },
     "extra": {
       "eas": {
-        "projectId": "202f2b4c-9542-4f58-8588-219394299a4b"
+        "projectId": "f57d06f5-5167-449b-ae8b-3858382aeee6"
       }
     }
   }
